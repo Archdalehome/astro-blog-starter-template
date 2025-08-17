@@ -1,8 +1,8 @@
 ---
-title: "Markdown Style Guide"
+title: "Slip-cover Sofa"
 description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
 pubDate: "Jun 19 2024"
-heroImage: "/[1 Sofa]2587 Cloud Cotton Sofa(228x98x78cm).jpg"
+heroImage: "/fabic_sofa.jpg"
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
