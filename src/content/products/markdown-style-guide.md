@@ -1,7 +1,7 @@
 ---
 title: "Slip-cover Sofa"
 description: "Best selling sofa."
-pubDate: ""
+pubDate: "Jul 08 2025"
 heroImage: "/2587 Cloud Cotton Sofa.jpg"
 ---
 
